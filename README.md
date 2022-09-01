@@ -4,4 +4,4 @@ NPM     : 2106750396
 
 Kelas   : F
 
-Hobi	: Makan
+Hobi	: Turu
